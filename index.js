@@ -3,7 +3,7 @@
 function scuberGreetingForFeet(199){
   if (199 <= 400) {
     return "This one is on me!";
-  } else if (199 > 2000) {
+  } else if (199 > 2001) {
     return "I will gladly take your thirty bucks.";
   }
 }
