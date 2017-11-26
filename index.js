@@ -2,8 +2,8 @@
 
 function scuberGreetingForFeet(199){
   if (199 < 400) {
-    scuberGreetingForFeet(199) = "This one is on me!";
+    console.log('This one is on me!');
   } else if (199 > 2001) {
-    scuberGreetingForFeet(2001) = "I will gladly take your thirty bucks.";
+    console.log('I will gladly take your thirty bucks.');
   }
 }
